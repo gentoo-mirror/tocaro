@@ -20,6 +20,7 @@ IUSE=""
 RDEPEND=">=sys-libs/ncurses-5
 		>=dev-libs/libevent-1.4.13
 		>=dev-libs/cyrus-sasl-2
+		<dev-libs/openssl-1.0.0
 		>=dev-libs/openssl-0.9.8e"
 #		!net-misc/memcached"
 DEPEND=""
