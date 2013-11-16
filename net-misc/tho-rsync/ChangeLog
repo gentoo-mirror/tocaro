@@ -1,0 +1,8 @@
+# ChangeLog for x11-misc/tho-rsync
+# Copyright 2013-2013 Thomas Carrie; Distributed under the GPL v2
+# $Header: $
+
+*tho-rsync-0.1-r1 (08 May 2013)
+
+  16 Nov 2013; Thomas Carrie <tocaro@thocar.org> :
+  Initial import.
