@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<!-- http://devmanual.gentoo.org/ebuild-writing/misc-files/metadata/ -->
+	<!-- herd>not maintained by a herd</herd-->
+	<maintainer>
+		<email>tocaro@thocar.org</email>
+	</maintainer>
+	<longdescription>Script that converts LDIF input into Markdown output, it may come in handy to browse as readable text file a directory content</longdescription>
+</pkgmetadata>
