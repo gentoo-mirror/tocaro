@@ -2,6 +2,16 @@
 # Copyright 2013-2013 Thomas Carrie; Distributed under the GPL v2
 # $Header: $
 
+*tho-rsync-0.3 (17 Mar 2014)
+
+  17 Mar 2014; Thomas Carrie <tocaro@thocar.org> :
+  Better documentation.
+
+*tho-rsync-0.3 (17 Mar 2014)
+
+  17 Mar 2014; Thomas Carrie <tocaro@thocar.org> :
+  Support for comment in config file.
+
 *tho-rsync-0.2 (31 Dec 2013)
 
   31 Dec 2013; Thomas Carrie <tocaro@thocar.org> :
