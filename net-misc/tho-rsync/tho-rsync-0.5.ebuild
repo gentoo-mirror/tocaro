@@ -12,7 +12,7 @@ SRC_URI="http://thocar.org/tarballs/${P}.tar.gz"
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="~x86"
+KEYWORDS="alpha amd64 arm x86"
 IUSE=""
 DEPEND=""
 RDEPEND=">=net-misc/rsync-3.0.0"
