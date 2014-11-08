@@ -1,0 +1,8 @@
+# ChangeLog for app-admin/tho-puppet-bootstrap
+# Copyright 2014-2014 Thomas Carrie; Distributed under the GPL v2
+# $Header: $
+
+*tho-puppet-bootstrap-0.1.0 (08 Nov 2014)
+
+  08 Nov 2014; Thomas Carrie <tocaro@thocar.org> :
+  Initial import.
