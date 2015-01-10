@@ -16,9 +16,13 @@ KEYWORDS="alpha amd64 arm x86"
 IUSE=""
 DEPEND=""
 RDEPEND=">=dev-vcs/git-1.7.0
-	virtual/rubygems"
+	virtual/rubygems
+	net-dns/host
+	app-portage/gentoolkit"
 
 src_install() {
 	# http://devmanual.gentoo.org/function-reference/install-functions/
     dobin thoPuppetBootstrap
+	dobin thoFindObsoletePuppetManagedFiles
+	dobin thoDirectoryChildLinkSwitch
 }
