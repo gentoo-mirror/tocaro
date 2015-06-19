@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<!-- http://devmanual.gentoo.org/ebuild-writing/misc-files/metadata/ -->
+	<!-- herd>not maintained by a herd</herd-->
+	<maintainer>
+		<email>tocaro@thocar.org</email>
+	</maintainer>
+	<longdescription>Script to mirror your repository of ogg and mp3 files to a repository of mp3 files only (because not all music player support ogg)</longdescription>
+</pkgmetadata>

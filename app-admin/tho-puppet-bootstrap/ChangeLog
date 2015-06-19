@@ -1,0 +1,28 @@
+# ChangeLog for app-admin/tho-puppet-bootstrap
+# Copyright 2014-2015 Thomas Carrie; Distributed under the GPL v2
+# $Header: $
+
+*tho-puppet-bootstrap-0.2.3 (28 Mar 2015)
+
+  28 Mar 2015; Thomas Carrie <tocaro@thocar.org> :
+  Small enhancements.
+
+*tho-puppet-bootstrap-0.2.2 (28 Mar 2015)
+
+  28 Mar 2015; Thomas Carrie <tocaro@thocar.org> :
+  Small enhancements.
+
+*tho-puppet-bootstrap-0.2.0 (14 Feb 2015)
+
+  14 Feb 2015; Thomas Carrie <tocaro@thocar.org> :
+  Ability to update required gem and puppet packages.
+
+*tho-puppet-bootstrap-0.2.0 (10 Jan 2015)
+
+  10 Jan 2015; Thomas Carrie <tocaro@thocar.org> :
+  Many improvements to support hiera.
+
+*tho-puppet-bootstrap-0.1.0 (08 Nov 2014)
+
+  08 Nov 2014; Thomas Carrie <tocaro@thocar.org> :
+  Initial import.

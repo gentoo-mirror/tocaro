@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<!-- http://devmanual.gentoo.org/ebuild-writing/misc-files/metadata/ -->
+	<!-- herd>not maintained by a herd</herd-->
+	<maintainer>
+		<email>tocaro@thocar.org</email>
+	</maintainer>
+	<longdescription>If you use rdiff-backup, you probably would like to have a script to put in the crontab to monitor your rdiff backup</longdescription>
+</pkgmetadata>

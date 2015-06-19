@@ -1,0 +1,8 @@
+# ChangeLog for x11-misc/tho-ldif2md
+# Copyright 2013-2014 Thomas Carrie; Distributed under the GPL v2
+# $Header: $
+
+*tho-ldif2md-0.1 (17 Mar 2014)
+
+  17 Mar 2014; Thomas Carrie <tocaro@thocar.org> :
+  Initial import.
