@@ -1,4 +1,4 @@
-app-admin/tho-puppet-bootstrap 0.2.1: If you want to use puppet without the puppet server, you can use it via git with a recent puppet setup via rubygems
+app-admin/tho-puppet-bootstrap 0.2.3: If you want to use puppet without the puppet server, you can use it via git with a recent puppet setup via rubygems
 app-backup/tho-rdiffwatch 0.1: If you use rdiff-backup, you probably would like to have a script to put in the crontab to monitor your rdiff backup
 dev-db/couchbase-server-community 2.0.1: Distributed key-value database management system
 media-sound/tho-mp3-mirror 0.1.3: Script to mirror your repository of ogg and mp3 files to a repository of mp3 files only
