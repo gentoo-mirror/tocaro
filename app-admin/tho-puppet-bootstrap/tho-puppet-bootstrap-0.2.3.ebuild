@@ -18,6 +18,8 @@ DEPEND=""
 RDEPEND=">=dev-vcs/git-1.7.0
 	virtual/rubygems
 	net-dns/host
+	app-admin/augeas
+	app-admin/sudo
 	app-portage/gentoolkit"
 
 src_install() {
